@@ -104,7 +104,7 @@ export const products = [
         Etiam et turpis nunc. Suspendisse potenti.
         `,
         id: 6,
-        inStock: 20,
+        inStock: 25,
         images: [
             '/headphones-c-1.png',
             '/headphones-c-2.png',
