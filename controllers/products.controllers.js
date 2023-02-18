@@ -2,6 +2,9 @@ import { products } from "../database/productsDb.js";
 
 export const getProducts = (req, res) => {
     const response = products
+
+    //Add products by category
+
     return res.json(response);
 };
 
