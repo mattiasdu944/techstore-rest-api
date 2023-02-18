@@ -4,6 +4,12 @@ export const getProducts = (req, res) => {
     const response = products
 
     //Add products by category
+    const { category } = req.query;
+
+    if( category ){
+        const productsCategory = products.filter( product => product.category === category);
+        return res.json( productsCategory );
+    }
 
     return res.json(response);
 };
