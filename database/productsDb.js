@@ -1,6 +1,6 @@
 export const products = [
     {
-        category: 'auriculares',
+        category: 'Auriculares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -21,7 +21,7 @@ export const products = [
         price: 60,
     },
     {
-        category: 'auriculares',
+        category: 'Auriculares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -40,7 +40,7 @@ export const products = [
         price: 80,
     },
     {
-        category: 'auriculares',
+        category: 'Auriculares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -59,7 +59,7 @@ export const products = [
         price: 120,
     },
     {
-        category: 'auriculares',
+        category: 'Auriculares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -77,7 +77,7 @@ export const products = [
         price: 250,
     },
     {
-        category: 'auriculares',
+        category: 'Auriculares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -95,7 +95,7 @@ export const products = [
         price: 200,
     },
     {
-        category: 'auriculares',
+        category: 'Auriculares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -113,7 +113,7 @@ export const products = [
         price: 200,
     },
     {
-        category: 'celulares',
+        category: 'Celulares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -130,7 +130,7 @@ export const products = [
         price: 800,
     },
     {
-        category: 'celulares',
+        category: 'Celulares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -148,7 +148,7 @@ export const products = [
         price: 1000,
     },
     {
-        category: 'computadoras',
+        category: 'Computadoras',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -166,7 +166,7 @@ export const products = [
         price: 1200,
     },
     {
-        category: 'computadoras',
+        category: 'Computadoras',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -184,7 +184,7 @@ export const products = [
         price: 900,
     },
     {
-        category: 'consolas',
+        category: 'Consolas',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -202,7 +202,7 @@ export const products = [
         price: 600,
     },
     {
-        category: 'consolas',
+        category: 'Consolas',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -220,7 +220,7 @@ export const products = [
         price: 300,
     },
     {
-        category: 'consolas',
+        category: 'Consolas',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -238,7 +238,7 @@ export const products = [
         price: 550,
     },
     {
-        category: 'consolas',
+        category: 'Consolas',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
@@ -256,7 +256,7 @@ export const products = [
         price: 500,
     },
     {
-        category: 'celulares',
+        category: 'Celulares',
         description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
         Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
         Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
