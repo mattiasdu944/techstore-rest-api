@@ -1,13 +1,7 @@
 export const products = [
     {
         category: 'Auriculares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 1,
         inStock: 30,
         images: [
@@ -22,13 +16,7 @@ export const products = [
     },
     {
         category: 'Auriculares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 2,
         inStock: 20,
         images: [
@@ -41,13 +29,7 @@ export const products = [
     },
     {
         category: 'Auriculares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 3,
         inStock: 25,
         images: [
@@ -60,13 +42,7 @@ export const products = [
     },
     {
         category: 'Auriculares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 4,
         inStock: 10,
         images: [
@@ -78,13 +54,7 @@ export const products = [
     },
     {
         category: 'Auriculares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 5,
         inStock: 20,
         images: [
@@ -96,13 +66,7 @@ export const products = [
     },
     {
         category: 'Auriculares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 6,
         inStock: 25,
         images: [
@@ -114,13 +78,7 @@ export const products = [
     },
     {
         category: 'Celulares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 7,
         inStock: 25,
         images: [
@@ -131,13 +89,7 @@ export const products = [
     },
     {
         category: 'Celulares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 8,
         inStock: 5,
         images: [
@@ -149,13 +101,7 @@ export const products = [
     },
     {
         category: 'Computadoras',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 9,
         inStock: 5,
         images: [
@@ -167,13 +113,7 @@ export const products = [
     },
     {
         category: 'Computadoras',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 10,
         inStock: 10,
         images: [
@@ -185,13 +125,7 @@ export const products = [
     },
     {
         category: 'Consolas',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 11,
         inStock: 14,
         images: [
@@ -203,13 +137,7 @@ export const products = [
     },
     {
         category: 'Consolas',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 12,
         inStock: 20,
         images: [
@@ -221,13 +149,7 @@ export const products = [
     },
     {
         category: 'Consolas',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 13,
         inStock: 10,
         images: [
@@ -239,13 +161,7 @@ export const products = [
     },
     {
         category: 'Consolas',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 14,
         inStock: 10,
         images: [
@@ -257,13 +173,7 @@ export const products = [
     },
     {
         category: 'Celulares',
-        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas.
-        Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. 
-        Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. 
-        Cras convallis suscipit sodales. Curabitur quis porta velit. 
-        Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. 
-        Etiam et turpis nunc. Suspendisse potenti.
-        `,
+        description: `Ut faucibus et felis eu hendrerit. Nam pretium risus non laoreet egestas. Integer id risus sed nunc dignissim pretium. Proin in tempus lorem. Fusce pulvinar vehicula felis, eu sagittis leo imperdiet a. Cras convallis suscipit sodales. Curabitur quis porta velit. Sed dui erat, convallis vitae interdum quis, interdum vitae turpis. Etiam et turpis nunc. Suspendisse potenti.`,
         id: 15,
         inStock: 50,
         images: [
